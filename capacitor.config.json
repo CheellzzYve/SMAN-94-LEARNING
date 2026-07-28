@@ -1,0 +1,9 @@
+{
+  "appId": "id.sch.sman94.learning",
+  "appName": "SMAN94 LEARNING",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
